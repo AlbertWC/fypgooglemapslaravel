@@ -32,7 +32,7 @@
             </div>
 
         </main>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVmmUEe9rAk8JKVDzWUJcXFToBpG023pA&callback=initMap"
+        <script src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap"
         async defer></script>
         <script src="/vendor/unisharp/laravel-ckeditor/ckeditor.js"></script>
         <script>
